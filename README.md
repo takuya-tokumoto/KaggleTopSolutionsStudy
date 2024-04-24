@@ -1,2 +1,2 @@
 # KaggleTopSolutionsStudy
-書籍「kaggleコンペティションチャレンジブック」を読み上位解を学ぶ
+書籍「kaggleコンペティションチャレンジブック」を読み上位解法を学ぶ
