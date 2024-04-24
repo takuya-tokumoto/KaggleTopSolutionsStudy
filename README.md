@@ -1,0 +1,2 @@
+# KaggleTopSolutionsStudy
+書籍「kaggleコンペティションチャレンジブック」を読み上位解を学ぶ
