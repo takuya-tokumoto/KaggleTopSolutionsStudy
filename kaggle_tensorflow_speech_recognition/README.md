@@ -1,3 +1,25 @@
+
+# 仮想環境作成
+Anacondaのパスを通し、condaコマンドが利用可能か確認する。  
+以下のコマンドで仮想環境を作成する。  
+```shell
+conda create -n {環境名} python=3.10
+```
+仮想環境を起動する  
+```shell
+conda activate {環境名}
+```
+ライブラリをインストール  
+- `scripts/iTransformer.ipynb` を実行する場合
+```shell
+pip install -r require_itrans.txt --user
+```
+- `scripts/Prophet.ipynb` を実行する場合
+```shell
+pip install -r require_prophet.txt --user
+```
+
+
 # データの探索的分析
 
 ```
